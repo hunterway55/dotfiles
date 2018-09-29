@@ -1,16 +1,23 @@
-# Dotfiles
+# Initial page
 
-My Personal dotfiles inspired by:
-https://github.com/JarrodCTaylor/dotfiles
+## Getting Super Powers
 
-## Installation
+Becoming a super hero is a fairly straight forward process:
 
-``` bash
-git clone https://github.com/hunterway55/dotfiles.git ~/dotfiles
-cd ~/dotfiles/install-scripts
-bash OSX/install-packages.sh
-bash OSX/create-symlinks.sh
-# or
-bash Linux/install-packages.sh
-bash Linux/create-symlinks.sh
 ```
+$ give me super-powers
+```
+
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
+
+Once you're strong enough, save the world:
+
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+
+
+
